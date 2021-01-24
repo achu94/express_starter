@@ -4,7 +4,7 @@
 
 <ul>
   <li> <i> git clone https://github.com/achu94/express_starter </i> </li>
-  <li> <i> cd express_start </i> </li>
+  <li> <i> cd express_starter </i> </li>
   <li> <i> npm i</i> </li>
   <li> <i> code . </i> </li>
 </ul>
