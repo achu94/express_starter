@@ -7,6 +7,7 @@
   <li> <i> cd express_starter </i> </li>
   <li> <i> npm i</i> </li>
   <li> <i> code . ( for VSCode)</i> </li>
+  <li> <i> npm start</i> </li>
 </ul>
 
 <h3>Enjoy</h3>
